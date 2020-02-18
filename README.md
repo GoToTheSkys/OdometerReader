@@ -11,3 +11,6 @@
 2.Number bar detection by Object Recognition (Cognitive Service) <br />
 3.Image processing (Filtering) used to process the image (Grayscale and Binary used for Analog Meter and Binary used for Digital Meter) <br />
 4.Batch Read API (Cognitive Service) reads the number out of the meter image <br />
+
+<b>Application Demo</b>
+https://flask-beginner.azurewebsites.net/
